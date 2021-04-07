@@ -3,9 +3,9 @@
 
 [![alt fan youtude](https://img.youtube.com/vi/-06nonZA3LA/0.jpg)](https://www.youtube.com/watch?v=-06nonZA3LA)
 
-## Isaac Dunbar - **fan behavior**
+## Isaac Dunbar - fan behavior
 
-> I guess I've got myself a fan
+I guess I've got myself a fan
 It's fan behavior, you're a fan
 As a result of my cold demeanour
 You're pressed, a little bit obsessed
