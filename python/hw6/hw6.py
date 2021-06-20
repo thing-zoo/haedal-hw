@@ -24,4 +24,4 @@ except requests.ConnectionError:
 
 with open('python/hw6/kin_rank.csv', 'w') as f:
     for item in items:
-        f.write(f'{item[0]}위 {item[1]}\n')
+        f.write(f'{item[0]}위, {item[1]}\n')
